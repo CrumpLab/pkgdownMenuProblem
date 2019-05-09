@@ -1,0 +1,12 @@
+---
+title: "This one shouldn't be here, because it isn't in the yml"
+author: "Matt"
+date: "5/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+An article
