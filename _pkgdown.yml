@@ -1,0 +1,31 @@
+navbar:
+  structure:
+    left:
+    - home
+    - intro
+    - reference
+    - articles
+    - tutorials
+    - news
+    right: github
+  components:
+    home:
+      icon: fa-home fa-lg
+      href: index.html
+    reference:
+      text: Reference
+      href: reference/index.html
+    articles:
+      text: Articles
+      menu:
+      - text: This Text doesn't show
+      - text: Article2
+        href: articles/Article2.html
+      - text: Article1
+        href: articles/Article1.html
+      - text: This isn't added either
+
+
+
+reference: []
+
